@@ -1,5 +1,6 @@
      # 🌟 Hi there, I'm **MD: Abu bakar Siddik!** 👋
 ## Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
+</p>
 <div style="background: linear-gradient(135deg, #0072ff 0%, #00c6ff 100%);
             padding: 40px 0;
             border-radius: 15px;">
@@ -8,8 +9,65 @@
   </p>
 </div>
 
+
+<h3 align="center">🚀 A Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=Frontend+Developer;React+%7C+JavaScript+%7C+CSS;Tailwind+CSS+%26+Redux;Learning+Backend+%26+MERN+Stack;Love+to+Build+Beautiful+Web+UIs+💻" alt="Typing SVG" />
+</p>
+
+
+## 🔥 What I'm Currently Doing
+- 🌱 Learning: **Node.js, Express, MongoDB**
+- 🧪 Experimenting with: **Next.js + TypeScript**
+- 🛠️ Building: **Tourism Web App (React + Firebase)**
+- 🎨 Exploring: **Design Systems & Scalable Architectures**
 ---
- 
+
+## 🧠 About Me
+
+💡 I’m a curious and creative developer who loves turning ideas into interactive web experiences.  
+🌱 Currently learning **Node.js & Express.js** to become a full-stack developer.  
+💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind CSS, Redux and Frontend Projects.**  
+🎯 Goal: To become a MERN Stack Developer & build impactful web apps.  
+⚡ Fun fact: I love exploring mysteries — from ancient civilizations to space secrets 🌌  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🧩 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+</p>
+
+### ⚙️ Backend (Learning)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+### 🧰 Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,netlify" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/anwarul-karim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+  <a href="https://linkedin.com/in/anwarul-karim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="mailto:anwarul.dev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Socials:
 
 <p align="center">
@@ -39,42 +97,73 @@
 </div>
 
 
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
 
+# 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=webabubakarsiddik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=webabubakarsiddik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=webabubakarsiddik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<!-- User Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=webabubakarsiddik&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="45%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=webabubakarsiddik&theme=dark&hide_border=false" alt="GitHub Streak" width="45%"/>
+
+<br/><br/>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webabubakarsiddik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="45%"/>
+
+</div>
+
+<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=webabubakarsiddik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=webabubakarsiddik&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="600"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=webabubakarsiddik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarul-karim&layout=compact&theme=tokyonight" height="160" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=webabubakarsiddik&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📌 Featured Projects
+| 🧠 Project | 📝 Description | 🌐 Live Demo | 🧰 Stack |
+|------------|----------------|--------------|-----------|
+| 🏨 **Tourism Website** | Explore, search & book tours | [Live](https://demo-link.com) | React, Tailwind, Firebase |
+| 🛒 **E-Commerce UI** | Fully responsive ecommerce UI | [Live](https://demo-link.com) | React, Redux, Vite |
+| ✅ **Todo App (CRUD)** | Simple CRUD app using Local Storage | [Live](https://demo-link.com) | HTML, JS, Bootstrap |
+
+---
+
+## 🏆 Achievements & Activity
+- ⭐ 50+ Stars received across repositories  
+- 🔁 Contributed to Open Source (PRs + Issues)  
+- 📌 20+ Public Repositories  
+- 🧑‍🏫 Mentor in 2+ student coding groups  
+- 🔍 Solved 100+ coding challenges (JS & React)
+
+
+### 🔝 Top Contributed Repos
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=webabubakarsiddik&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="600"/>
+</div>
+
+<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Current Projects
+
+- 🧩 Building **React Portfolio Website**
+- 🌱 Exploring **MERN Stack Development**
+- 💬 Learning **API Integration & Authentication**
+- 🛠️ Working with **Node.js + Express**
+
+---
+
+## ✨ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahbub-hb-dev&color=00BFFF&style=flat-square" alt="Visitor count"/>
+</p>
