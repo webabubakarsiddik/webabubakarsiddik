@@ -5,7 +5,7 @@
             padding: 40px 0;
             border-radius: 15px;">
   <p align="center">
-    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" />
+    <img src="https://i.postimg.cc/4dLRpWbH/Gold-Modern-Personal-Linked-In-Banner.png" width="100%" />
   </p>
 </div>
 
