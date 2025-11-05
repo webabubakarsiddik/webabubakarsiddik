@@ -1,13 +1,16 @@
-     # 🌟 Hi there, I'm **MD: Abu bakar Siddik!** 👋
-## Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
-</p>
+     <h1 align="center">👋 Hello, I'm <span style="color:#FF6B6B;">Abu Bakar Siddik</span></h1>
+<h3 align="center">🚀 Frontend Developer | Crafting Modern & Interactive Web Experiences</h3>
 <div style="background: linear-gradient(135deg, #0072ff 0%, #00c6ff 100%);
             padding: 40px 0;
             border-radius: 15px;">
   <p align="center">
-    <img src="https://i.postimg.cc/4dLRpWbH/Gold-Modern-Personal-Linked-In-Banner.png" width="100%" />
+    <img src="https://i.postimg.cc/4dLRpWbH/Gold-Modern-Personal-Linked-In-Banner.png" width="100%" height="50%" />
   </p>
 </div>
+     
+## Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
+</p>
+
 
 
 <h3 align="center">🚀 A Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
