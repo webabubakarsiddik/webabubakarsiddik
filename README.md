@@ -4,7 +4,7 @@
             padding: 40px 0;
             border-radius: 15px;">
   <p align="center">
-    <img src="https://i.postimg.cc/4dLRpWbH/Gold-Modern-Personal-Linked-In-Banner.png" width="100%" height="50%" />
+    <img src="https://i.postimg.cc/FR3dCJzV/Gold-Modern-Personal-Linked-In-Banner-1.png" width="100%"             height="40%" />
   </p>
 </div>
      
