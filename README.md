@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#FF6B6B;">Abu Bakar Siddik</span></h1>
+<h1 align="center">👋 Hello, I'm <span style="color:#FF6B6B;">Abu Bakar Nasrulla</span></h1>
 <h3 align="center">🚀 Frontend Developer | Crafting Modern & Interactive Web Experiences</h3>
 <div style="background: linear-gradient(135deg, #0072ff 0%, #00c6ff 100%);
             padding: 40px 0;
